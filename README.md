@@ -12,6 +12,7 @@ const ::= int | bool | name | ()
 
 **Programs**
 prog ::= coms
+
 com ::= Push const | Pop int | Trace int
 | Add int | Sub int | Mul int | Div int
 | Equal | Lte | And | Or | Not
