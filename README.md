@@ -1,6 +1,6 @@
 # ocaml_interpreter
 
-Stack-based bytecode interpreter written in OCaml, featuring a recursive descent parser with monadic combinators, closures, lexical scoping, and exception handling via Try/End blocks.
+Stack-based interpreter written in OCaml, featuring a recursive descent parser with monadic combinators, closures, lexical scoping, and exception handling via Try/End blocks.
 
 **Supported Grammar**
 
